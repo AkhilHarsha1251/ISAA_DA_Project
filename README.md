@@ -67,4 +67,4 @@ This project was a collaborative effort by a team of developers. The following a
 We would like to thank all team members for their contributions to this project. If you have any suggestions or feedback, please let us know.
 
 ## Acknowledgements
-This script was developed as part of a project by [Harsha Vardhan, Srujay, Aadhyanth, Srinandhan]() for the Information Security and Assurance Architecture (ISAA) course at [Vellore Institute of Technology](https://vit.ac.in/). The authors would like to thank [Dr. Priyadarshini R](https://chennai.vit.ac.in/member/dr-priyadarshini-ramasubramanian/) for their guidance and support throughout the project.
+This script was developed as part of a project by [Harsha Vardhan, Srujay, Aadhyanth, Srinandhan]() for the Information Security Analysis and Audit (ISAA) course at [Vellore Institute of Technology](https://vit.ac.in/). The authors would like to thank [Dr. Priyadarshini R](https://chennai.vit.ac.in/member/dr-priyadarshini-ramasubramanian/) for their guidance and support throughout the project.
