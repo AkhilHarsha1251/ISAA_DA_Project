@@ -54,5 +54,17 @@ The `cryptography` library is a widely used and trusted library for encryption/d
 ## Developed by
 This script was developed by [Akili Harsha Vardhan](). If you have any questions or feedback, please feel free to contact me at akhilharsha78@gmail.com. Contributions are also welcome - if you would like to contribute to the project, please create a pull request or contact me directly.
 
+Sure! Here's an example of how you could include contributions by teammates in the README:
+
+## Contributions
+This project was a collaborative effort by a team of developers. The following are some of the contributions made by each team member:
+
+- **[Akili Harsha Vardhan]()**: Developed the initial version of the script, implemented file encryption and decryption using the Camellia cipher in CFB mode, and wrote the README file.
+- **[Dasari Srujay]()**: Added support for batch encryption/decryption of multiple files at once.
+- **[Aadhyanth Y]()**: Implemented a graphical user interface (GUI) using the `tkinter` library.
+- **[Srinandhan I]()**: Improved the key derivation function to use a larger number of iterations for increased security.
+
+We would like to thank all team members for their contributions to this project. If you have any suggestions or feedback, please let us know.
+
 ## Acknowledgements
 This script was developed as part of a project by [Harsha Vardhan, Srujay, Aadhyanth, Srinandhan]() for the Information Security and Assurance Architecture (ISAA) course at [Vellore Institute of Technology](https://vit.ac.in/). The authors would like to thank [Dr. Priyadarshini R](https://chennai.vit.ac.in/member/dr-priyadarshini-ramasubramanian/) for their guidance and support throughout the project.
