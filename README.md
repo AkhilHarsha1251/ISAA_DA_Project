@@ -35,7 +35,7 @@ python final.py
 ``` 
 Note: The script has been tested on Windows and Linux operating systems. If you encounter any issues running the script, please let me know.
 
-For Windows Operating Systems Just the Run [final.exe]() file
+For Windows Operating Systems Just the Run [final.exe](https://github.com/AkhilHarsha1251/ISAA_DA_Project/blob/main/Windows%20Package%20Files/dist/final.exe) file
 ```
 final.exe
 ``` 
